@@ -1,0 +1,10 @@
+Git and Github notes:
+Git:
+•	Git is a version control system.
+•	Git helps you keep track of code changes.
+•	Git used to collaborate on code. (multiple people can work on same time).
+GitHub :
+GitHub is a web-based Git repository  hosting service.
+GitHub Alternatives:
+•	BitBucket
+•	GitBucket
